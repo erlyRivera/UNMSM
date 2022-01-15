@@ -1,1 +1,40 @@
 
+{
+  "nombres": "Santiago Domingo",
+  "apellidos": "Moquillaza Hernandez",
+  "correo": "smoquillazah@unmsm.edu.pe",
+  "facultad": "FISI",
+  "cursos": [
+    {
+      "nombre": "Matemática Discreta",
+      "creditos": 3,
+      "ciclo": 4,
+    }
+  ],
+}
+{
+  "nombres": "Jorge",
+  "apellidos": "Pantoja Collantes"
+  "correo": "jpantojac@unmsm.edu.pe"
+  "facultad": "FISI",
+  "cursos": [
+    {
+      "nombre": "Procesos de Software",
+      "creditos": 3,
+      "ciclo: 4",
+    }
+  ],
+}
+{
+ "nombres": "Joel Fernando",
+  "apellidos": "Machado Vicente",
+  "correo": "jmachadov@unmsm.edu.pe",
+  "facultad": "FISI",
+  "cursos": [
+    {
+      "nombre": "Innovación, Tecnología y Emprendimiento",
+      "creditos": 3,
+      "ciclo": 4,
+    }
+  ],
+}
